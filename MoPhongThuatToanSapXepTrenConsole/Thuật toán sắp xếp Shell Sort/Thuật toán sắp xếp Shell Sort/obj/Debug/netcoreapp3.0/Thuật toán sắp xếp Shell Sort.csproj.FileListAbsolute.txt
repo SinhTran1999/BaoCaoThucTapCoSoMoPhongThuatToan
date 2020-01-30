@@ -1,0 +1,11 @@
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.exe
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.deps.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.runtimeconfig.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.runtimeconfig.dev.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.pdb
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.csprojAssemblyReference.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.AssemblyInfoInputs.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.AssemblyInfo.cs
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Shell Sort\Thuật toán sắp xếp Shell Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Shell Sort.pdb

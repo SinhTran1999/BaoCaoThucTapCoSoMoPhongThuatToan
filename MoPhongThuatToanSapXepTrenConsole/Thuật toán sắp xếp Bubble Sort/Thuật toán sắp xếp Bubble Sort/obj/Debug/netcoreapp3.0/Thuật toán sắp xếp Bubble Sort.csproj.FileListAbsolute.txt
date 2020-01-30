@@ -1,0 +1,11 @@
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.exe
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.deps.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.runtimeconfig.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.runtimeconfig.dev.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.pdb
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.csprojAssemblyReference.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.AssemblyInfoInputs.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.AssemblyInfo.cs
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Bubble Sort\Thuật toán sắp xếp Bubble Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Bubble Sort.pdb

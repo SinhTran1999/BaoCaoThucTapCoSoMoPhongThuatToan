@@ -1,0 +1,234 @@
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.CoreCompileInputs.cache
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\Downloads\nhac\nhac\GitHub\GitHub\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.CoreCompileInputs.cache
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\buiqu\source\repos\GitHub\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.Cache
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+D:\Git\DoAn\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.Cache
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+D:\DoAn\Dung BackGroundWorker\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.Cache
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\HUynhSang\Desktop\nhac\nhac (3)\nhac\Sorting ALgorithm Project\Sorting ALgorithm Project\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+D:\Git\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+D:\Git\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+D:\Git\DoAn\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+D:\Git\DoAn\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.Cache
+D:\Git\DoAn\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+D:\Git\DoAn\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\Admin\Downloads\DoAn-master\DoAn-master\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.CoreCompileInputs.cache
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+D:\GitHub\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+D:\GitHub\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+D:\GitHub\DoAn\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+D:\GitHub\DoAn\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.Cache
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+D:\GitHub\DoAn\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\OneDrive\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csprojAssemblyReference.cache
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csprojAssemblyReference.cache
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.CoreCompileInputs.cache
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.frmInput.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csprojAssemblyReference.cache
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.frmInput.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.CoreCompileInputs.cache
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+C:\Users\Admin\Desktop\DoAn_LTTQ\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.frmInput.resources
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.exe.config
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.CaiDat.resources
+D:\Git\DoAn\DoAnSapXep\bin\Debug\DoAnSapXep.exe.config
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.CaiDat.resources
+D:\Git\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.exe.licenses
+C:\Users\buiqu\Documents\GitHub\DoAn\DoAn\DoAnSapXep\obj\Debug\DoAnSapXep.exe.licenses
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.csprojAssemblyReference.cache
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.CaiDat.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.frmInput.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.exe.licenses
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXep-master\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.csprojAssemblyReference.cache
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.CaiDat.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.frmInput.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.exe.licenses
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+D:\CÁC MÔN HỌC\01-ĐỒ ÁN MÔ PHỎNG CÁC THUẬT TOÁN SẮP XẾP\MoPhongThuatToanSapXepTrenC#\DoAnSapXep\obj\Debug\DoAnSapXep.pdb

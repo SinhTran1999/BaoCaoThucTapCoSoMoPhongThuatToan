@@ -1,0 +1,11 @@
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\bin\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.exe
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\bin\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.deps.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\bin\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.runtimeconfig.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\bin\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.runtimeconfig.dev.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\bin\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\bin\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.pdb
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\obj\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.csprojAssemblyReference.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\obj\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.AssemblyInfoInputs.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\obj\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.AssemblyInfo.cs
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\obj\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán Binary Insertion Sort\Thuật toán Binary Insertion Sort\obj\Debug\netcoreapp3.0\Thuật toán Binary Insertion Sort.pdb

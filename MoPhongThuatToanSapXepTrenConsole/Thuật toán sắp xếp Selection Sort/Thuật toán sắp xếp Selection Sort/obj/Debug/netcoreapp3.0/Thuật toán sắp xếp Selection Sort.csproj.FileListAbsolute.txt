@@ -1,0 +1,11 @@
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.exe
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.deps.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.runtimeconfig.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.runtimeconfig.dev.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.pdb
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.csprojAssemblyReference.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.AssemblyInfoInputs.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.AssemblyInfo.cs
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Selection Sort\Thuật toán sắp xếp Selection Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Selection Sort.pdb

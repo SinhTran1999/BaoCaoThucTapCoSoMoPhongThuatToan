@@ -1,0 +1,10 @@
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.exe
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.deps.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.runtimeconfig.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.runtimeconfig.dev.json
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\bin\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.pdb
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.AssemblyInfoInputs.cache
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.AssemblyInfo.cs
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.dll
+D:\CÁC MÔN HỌC\00-Các thuật toán sắp xếp C# chính\Thuật toán sắp xếp Quick Sort\Thuật toán sắp xếp Quick Sort\obj\Debug\netcoreapp3.0\Thuật toán sắp xếp Quick Sort.pdb
